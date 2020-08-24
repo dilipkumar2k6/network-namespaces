@@ -71,4 +71,5 @@
     ![](assets/from-out-side.png)
     - Add iptable routing for connectivity 
     ![](assets/add-routing.png)
-
+# Docker bridge network
+![](assets/docker-bridge-network.png)
